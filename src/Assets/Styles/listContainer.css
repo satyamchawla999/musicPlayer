@@ -1,0 +1,27 @@
+.listContainer {
+    margin-top: 50px;
+    height: 25vh;
+    width: 100%;
+    overflow-y: scroll;
+    /* border: 1px solid black; */
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #557182;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #77B8B6;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #8fd4d2;
+  }

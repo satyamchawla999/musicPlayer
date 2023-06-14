@@ -1,0 +1,50 @@
+.listItems {
+    height: 40%;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-family: 'Trebuchet MS', sans-serif;
+
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+}
+
+h3,p{
+    padding: 0;
+    margin: 0;
+    color: lightgrey;
+    font-family: Tahoma, sans-serif;
+}
+
+.imgBox {
+    height: 100%;
+    width: 10%;
+}
+
+.imgBox>img {
+    height: 100%;
+    width: 100%;
+
+    border-radius: 8px;
+}
+
+.infoBox {
+    height: 100%;
+    width: 88%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    /* border: 1px solid grey; */
+}
+
+.infoBox p{
+    font-size: 12px;
+    font-weight: lighter;
+    margin:0px 5px;
+}
+
+

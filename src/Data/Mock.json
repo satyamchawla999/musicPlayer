@@ -1,0 +1,30 @@
+{
+    "songs": [
+        {
+            "id":"1",
+            "name":"Sidhu Moosewala",
+            "song":"Blood Lust",
+            "duration":"3:50",
+            "img":"https://dns2.pendusaab.com/thumb/34496002.jpg",
+            "audio":"https://pwdown.info/113640/Bloodlust%20-%20Sidhu%20Moose%20Wala.mp3",
+            "play":false
+        },
+        {
+            "id":"2",
+            "name":"King",
+            "song":"Mann Meri Jaan",
+            "duration":"2:49",
+            "img":"https://hindipath.com/wp-content/uploads/2023/01/tu-maan-meri-jaan-lyrics.jpg",
+            "audio":"https://pagalfree.com/musics/128-Maan%20Meri%20Jaan%20-%20Champagne%20Talk%20128%20Kbps.mp3"
+        },
+        {
+            "id":"3",
+            "name":"Karan Aujla",
+            "song":"Take It Easy",
+            "duration":"3:25",
+            "img":"https://lyricsraag.com/wp-content/uploads/2023/02/take-it-easy-karan-aujla-lyrics.jpg",
+            "audio":"https://pagalfree.com/musics/128-Take%20It%20Easy%20-%20Four%20You%20128%20Kbps.mp3"
+        }
+    
+    ]
+}

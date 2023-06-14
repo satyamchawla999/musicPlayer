@@ -1,0 +1,8 @@
+.player {
+    height: 70vh;
+    width: 120vh;
+    padding: 50px;
+    border-radius:10px ;
+    background-color: #3F5563;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
